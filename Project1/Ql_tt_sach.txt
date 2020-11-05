@@ -1,0 +1,4 @@
+ MT001 ;  Nhung dua tre ;  Thach lam ;  Tuoi tre ;  2002 ;  Tot ;  VC25T63 ; 
+  MT002 ;  Tuoi tre online ;  Phung si thang ;  Chinh tri ;  2010 ;  Moi ;  KT25U2 ; 
+  MT003 ;  Canh dieu ;  Si Thanh ;  VHXH ;  2015 ;  Moi ;  CT25O6 ; 
+ 
